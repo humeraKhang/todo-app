@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "version": "0.1.0",
-  "homepage": "https://humeraKhang.github.io/react-gh-pages",
+  "homepage": "https://humeraKhang.github.io/todo-app",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
